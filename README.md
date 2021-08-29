@@ -1,6 +1,7 @@
 <p align="center">
-<img src="img/thumbnail.png" width="100">
+<img src="img/thumbnail.png" width="150">
 </p>
+
 ## Talos Dark Slack Theme
 
 ---
