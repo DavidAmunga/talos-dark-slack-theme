@@ -2,9 +2,7 @@
 <img src="img/thumbnail.png" width="150">
 </p>
 
-## Talos Dark Slack Theme
-
----
+# Talos Dark Slack Theme
 
 ### How to Install Manually
 
